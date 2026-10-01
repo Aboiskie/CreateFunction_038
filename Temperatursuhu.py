@@ -13,3 +13,5 @@ unit = input("Masukkan satuan suhu (C/F): ")
 result = konversi_suhu(value, unit)
 
 print(f"Hasil konversi: {result}")
+
+#inilah hasil saya
